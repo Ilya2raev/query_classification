@@ -7,7 +7,7 @@ Not all queries require to be retrieval-augmented due to the inherent capabiliti
 
 
 ## 🛠 1. Дизайн системы:
-![](docs\query_classification_design.png)
+![](docs/query_classification_design.png)
 
 📌 **Стек технологий MVP:**  
 ✅ **Qdrant** — векторная база данных  
